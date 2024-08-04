@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Implements if control statement in while loop
 count=1
 text="Best School"
 while [ $count -le 10 ]

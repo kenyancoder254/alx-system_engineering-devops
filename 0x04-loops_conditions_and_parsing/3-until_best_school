@@ -2,7 +2,7 @@
 # Displays text multiple times using until loop
 count=1
 text="Best School"
-until [ $count -ge 10 ]
+until [ $count -gt 10 ]
 do
         echo "$text"
         ((count++))

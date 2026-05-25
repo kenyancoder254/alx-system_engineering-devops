@@ -1,2 +1,2 @@
 #!/bin/bash
-dir -dA | wc -l
+dir -dAR | wc -l
